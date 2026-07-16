@@ -73,7 +73,7 @@ Check [James Kettle](https://portswigger.net/research/exploiting-cors-misconfigu
 
 During a penetration test, exploiting CORS misconfigurations is difficult. The attacks may rely on manipulating a victim or even finding configuration issues on other domains (which can be out of scope).
 
-However, it's possible to get a Proof-of-Concept using JavaScript by registring a domain (to abuse a CORS misconfiguration).
+However, it's possible to get a Proof-of-Concept using JavaScript by regisetring a domain (to abuse a CORS misconfiguration).
 
 
 ### Tools
